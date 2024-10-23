@@ -1,0 +1,9 @@
+.cart{
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 5px;
+}
+.cart img{
+    width: 100%;
+    border-radius: 5px;
+}
